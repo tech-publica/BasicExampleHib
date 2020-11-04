@@ -40,8 +40,7 @@ public class DeleteInstructorDetailDemo {
 			// print  the associated instructor
 			System.out.println("the associated instructor: " + 
 								tempInstructorDetail.getInstructor());
-			LinkedList<Integer> li = new LinkedList<Integer>();
-			LinkedList.  li.iterator();
+	
 			// now let's delete the instructor detail
 			System.out.println("Deleting tempInstructorDetail: " 
 											+ tempInstructorDetail);
